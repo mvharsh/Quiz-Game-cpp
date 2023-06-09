@@ -33,7 +33,7 @@ an **Abstract Class**.
 - **Friend Class** – The class Quiz is a friend class of class student.
 - **Passing Object as an Argument** – In function stu_details, an object of class student 
 is passes as an argument to the function QuizQues(), which is in class Quiz.
-- **Using <\ctime> header file** – This enables us to set a time limit, here, 50 seconds. If 
+- **Using ctime header file** – This enables us to set a time limit, here, 50 seconds. If 
 the student exceed 50 seconds, then 5 marks will be deducted.
   
  ABOUT THE PROGRAM: 
