@@ -36,7 +36,8 @@ is passes as an argument to the function QuizQues(), which is in class Quiz.
 - **Using ctime header file** – This enables us to set a time limit, here, 50 seconds. If 
 the student exceed 50 seconds, then 5 marks will be deducted.
   
- ABOUT THE PROGRAM: 
+### About the Program
+
 - **STEP 1:** As the program is executed, the user has to enter the user name and 
 password to login. The username is ‘user’ and the password is ‘pass’. The user has to 
 login each time to ensure safety of the system. 
